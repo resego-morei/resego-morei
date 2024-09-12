@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on something cool for yall. 
+
 <!--
 **resego-morei/resego-morei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
